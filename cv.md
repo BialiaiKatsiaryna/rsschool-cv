@@ -3,9 +3,9 @@
 ## First Name, Last Name - *Bialiai Kate*
 
 ## Contact Info 
-  **e-mail** - *bialiai.k@gmail.com*
-  **phone number** - *+3753365801--*
-  **messenger's** - *You can write me in Telegram, Whatsapp and Viber*
+  * :email: **e-mail** - *bialiai.k@gmail.com*
+  * :telephone_receiver: **phone number** - *+3753365801--*
+  * :iphone: **messenger's** - *You can write me in Telegram, Whatsapp and Viber*
           
 ## Summary 
   * I can draw in a paint
